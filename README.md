@@ -19,7 +19,7 @@ Explain the main folders/files in your project:
 - Supplier restocking with invoice
 - File-based inventory management
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python 3.x
 - Text file for data storage
